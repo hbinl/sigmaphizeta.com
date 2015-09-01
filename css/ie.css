@@ -1,0 +1,5 @@
+/* fix for IE9 issues*/
+
+#thumbs img {
+	width:296px;
+}
