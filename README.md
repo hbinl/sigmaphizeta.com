@@ -1,3 +1,5 @@
 FIT1012 Assignment 2
 
-by Loh Hao Bin & Christophorus Souw
+Developed by Loh Hao Bin & Christophorus Souw
+
+Prototype website for Sigma Phi Zeta boutique.
